@@ -18,6 +18,19 @@ But don't let the tech talk fool you! When I unplug, I'm an outdoor junkie who l
 - Spatial Statistics
 - Texture Analysis
 
+# :man_technologist: Work Experience
+
+Having spent several years in the field of bio-imaging, I've gained valuable experience in several areas:
+
+- Image acquisition and processing
+- Development of AI-based pipelines for image analysis
+- Collaborating with interdisciplinary teams
+- Statistical analysis and data visualization
+
+# :briefcase: Open for Opportunities
+
+:alarm_clock: Expected to complete my PhD in the fall, I am actively seeking opportunities where I can apply and expand my skills. Particularly interested in roles that intersect medicine and medical research, software development, and image analysis. Let's discuss how I can contribute to your team! :handshake:
+
 # :mailbox: Contact
 
-:handshake: I'm always eager to collaborate with others, particularly scientists, biologists, or software developers. If you're interested in image analysis or just want to discuss ideas, feel free to get in touch! :smile:
+I'm always eager to collaborate with others, particularly scientists, biologists, or software developers. If you're interested in image analysis or just want to discuss ideas, feel free to get in touch! :smile:
